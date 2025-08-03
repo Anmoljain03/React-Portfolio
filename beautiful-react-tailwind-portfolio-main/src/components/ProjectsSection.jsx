@@ -3,9 +3,9 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projectsGroup1 = [
   {
     id: 1,
-    title: "Doctor Appointment Booking System",
+    title: "Doctor Appointment Booking System with Admin Panel",
     description:
-      "Doctor Appointment System with panels, scheduling, and secure authentication.",
+      "A secure Doctor Appointment System with role-based panels for patients, doctors, and admins, real-time scheduling, and profile management—ensuring smooth appointment booking and complete admin oversight.",
     image: "/projects/project2.png",
     tags: ["React", "TailwindCSS", "Node.js", "Express", "Razorpay", "Authentication"],
      demoUrl: "https://prescripto-frontend-ndl3.onrender.com",
@@ -19,8 +19,8 @@ const projectsGroup1 = [
     description: "A full-featured e-commerce website with product listings, cart, checkout, Stripe/Razorpay/COD payments, order tracking, and a powerful admin panel for managing products and orders.",
     image: "/projects/e-commerce.png",
     tags: ["React", "Bootstap", "MongoDB", "Stripe/Razorpay", "Admin Dashboard", "Order Tracking"],
-    demoUrl: "https://placement-poornima-frontend1.onrender.com",
-    githubUrl: "https://github.com/Anmoljain03/Placement-poornima",
+    demoUrl: "https://global-mart-frontend.onrender.com",
+    githubUrl: "https://github.com/Anmoljain03/global-mart",
   },
 ];
 
@@ -41,8 +41,8 @@ const projectsGroup2 = [
       "Responsive crypto website with a user-friendly UI showing currency and Bitcoin prices.",
     image: "/projects/project3.png",
     tags: ["HTML", "CSS", "JavaScript", "Framer-Motion", "Responsive Design"],
-    demoUrl: "https://marketmindset-1.onrender.com/",
-    githubUrl: "https://github.com/Anmoljain03/MarketMindset",
+    demoUrl: "https://cryptexx.netlify.app",
+    githubUrl: "https://github.com/Anmoljain03/frontend-crypto-website",
   },
 ];
 
